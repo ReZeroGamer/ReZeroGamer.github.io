@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff52ff;
+  background: #e2b169;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2564,7 +2564,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 body {
-  background: url("https://tieba.baidu.com/photo/p?kw=%E6%98%9F%E9%99%852&flux=1&tid=8260974868&pic_id=8462c01373f082023183a2f80efbfbedaa641b88&pn=1&fp=2&see_lz=0&post_id=146850272650");
+  background: url("/images/background.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
